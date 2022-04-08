@@ -5105,7 +5105,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _patrolWaiting: 1
-  _totalWaitTime: 3
+  _totalWaitTime: 2
   _switchProbability: 0.2
 --- !u!195 &2114235050
 NavMeshAgent:
