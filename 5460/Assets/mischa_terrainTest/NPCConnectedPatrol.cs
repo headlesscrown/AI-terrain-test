@@ -5,8 +5,8 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.AI;
 
-//namespace Assets.Code
-//{
+namespace Assets.Code
+{
     public class NPCConnectedPatrol : MonoBehaviour
     {
         [SerializeField] //dictates if agent waits on each node
@@ -111,4 +111,4 @@ using UnityEngine.AI;
             _travelling = true;
         }
     }
-//}
+}
