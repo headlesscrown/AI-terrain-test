@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/sceneLMtest/lee prototype.unity
+- path: Assets/mischa_terrainTest/terrain test.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
