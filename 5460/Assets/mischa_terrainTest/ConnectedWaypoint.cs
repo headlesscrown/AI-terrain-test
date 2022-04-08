@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
-namespace Assets.Code
-{
+//namespace Assets.Code
+//{
     public class ConnectedWaypoint : Waypoint
     {
         [SerializeField]
@@ -70,4 +70,4 @@ namespace Assets.Code
             }
         }
     }
-}
+//}

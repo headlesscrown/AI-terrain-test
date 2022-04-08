@@ -377,3 +377,27 @@ Received Import Request.
 Start importing Assets/mischa_AI_scripts/terrain test.unity using Guid(dec84ad7897c2485c9746b6b75518a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9397e8bb471ac5c2e00f9a802053ccf') in 0.014203 seconds 
   Import took 0.018463 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 204.391107 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ef9971fce01350ab99584d0f77616e') in 0.070484 seconds 
+  Import took 0.076532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.310460 seconds.
+  path: Assets/mischa_terrainTest/NPCConnectedPatrol.cs
+  artifactKey: Guid(0ca496588d9d448649ede82416a9864f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mischa_terrainTest/NPCConnectedPatrol.cs using Guid(0ca496588d9d448649ede82416a9864f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3919193d0f5617ccfe2d7a818dd294c9') in 0.001833 seconds 
+  Import took 0.008323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.928019 seconds.
+  path: Assets/mischa_terrainTest/ConnectedWaypoint.cs
+  artifactKey: Guid(ec560fbd306dc4b5eac56eaa9ebef5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mischa_terrainTest/ConnectedWaypoint.cs using Guid(ec560fbd306dc4b5eac56eaa9ebef5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a28819be67b84a4c72b3e90b2420fd8') in 0.001242 seconds 
+  Import took 0.005697 seconds .
+
