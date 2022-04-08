@@ -361,3 +361,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 707.237466 seconds.
+  path: Assets/mischa_AI_scripts/ConnectedWaypoint.cs
+  artifactKey: Guid(ec560fbd306dc4b5eac56eaa9ebef5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mischa_AI_scripts/ConnectedWaypoint.cs using Guid(ec560fbd306dc4b5eac56eaa9ebef5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40efb3d50f156fc039206a548922129a') in 0.010815 seconds 
+  Import took 0.015173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.531961 seconds.
+  path: Assets/mischa_AI_scripts/terrain test.unity
+  artifactKey: Guid(dec84ad7897c2485c9746b6b75518a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mischa_AI_scripts/terrain test.unity using Guid(dec84ad7897c2485c9746b6b75518a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9397e8bb471ac5c2e00f9a802053ccf') in 0.014203 seconds 
+  Import took 0.018463 seconds .
+
